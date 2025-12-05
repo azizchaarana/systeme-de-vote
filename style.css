@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    border: solid;
+}
+nav{
+    text-align: center;
+    float: left;
+    border: solid;
+    width: 15%;
+}
+
+section{
+    width: 100%;
+}
+
+iframe{
+    border: solid;
+    width: 84%;
+}
+
+nav,section,iframe{
+    height: 525px;
+}
+
+footer{
+    border: solid;
+    text-align: center;
+}
