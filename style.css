@@ -1,12 +1,31 @@
 header{
     text-align: center;
     border: solid;
+    border-color:darkslateblue;
 }
 nav{
     text-align: center;
     float: left;
     border: solid;
     width: 15%;
+    border-color:darkslateblue;
+}
+
+h1{
+    color:chocolate;
+    text-shadow: chocolate 1px 0 10px;
+}
+h1:hover{
+    color: darkred;
+    text-shadow: darkred 1px 0 10px;
+}
+
+a:hover{
+    color: chocolate;
+}
+
+body{
+    background-color: bisque;
 }
 
 section{
@@ -16,6 +35,7 @@ section{
 iframe{
     border: solid;
     width: 84%;
+    border-color:darkslateblue;
 }
 
 nav,section,iframe{
@@ -23,6 +43,17 @@ nav,section,iframe{
 }
 
 footer{
+    border-color:darkslateblue;
     border: solid;
     text-align: center;
+}
+
+
+h2{
+    color: chocolate;
+    text-shadow: chocolate 1px 0 10px;
+}
+h2:hover{
+    color: darkred;
+    text-shadow:darkred 1px 0 10px;
 }
