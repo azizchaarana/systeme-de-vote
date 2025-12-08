@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-# systeme-de-vote
-=======
-=======
->>>>>>> Stashed changes
 # systeme-de-vote
 
 ---
@@ -55,7 +49,3 @@ Le tableau contient les colonnes suivantes :
 1. Télécharger le projet ou cloner le dépôt :
 ```bash
 git clone https://github.com/azizchaarana/systeme-de-vote.git
->>>>>>> 61ee4cbd840af13552fedc24b6f7a989ad972cb7
-=======
-# systeme-de-vote
->>>>>>> 4cea0f7 (Initial commit)
