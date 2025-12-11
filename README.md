@@ -19,27 +19,31 @@ Formulaire contenant :
 - Email
 - Genre (Homme/Femme)
 - Âge (17, 18, 19)
-- Bouton de validation 
+- Bouton de validation  
+- **La page est stylée avec CSS et contrôlée avec JavaScript**
 
 ### ✔️ 3. Vote (`vote.html`)
 Formulaire contenant :
-- Cin de l’élève
+- CIN de l’élève
 - Nom du délégué
 - Vérification "Je ne suis pas un robot"
-- Bouton `Voter`
+- Bouton `Voter`  
+- **La page est stylée avec CSS et contrôlée avec JavaScript**
 
-### ✔️ 4. Resultat (`resultat.html`)
+### ✔️ 4. Résultat (`resultat.html`)
 Cette page affiche un **tableau récapitulatif** des votes.  
 Le tableau contient les colonnes suivantes :
 - **CIN Électeur**
 - **Nom d’élève**
 - **Nombre de votes**
+- **La page est stylée avec CSS**
 
 ---
 
 ## 🛠️ Technologies utilisées
 - **HTML5**
 - **CSS3**
+- **JavaScript**
 - Aucun framework externe
 
 ---
